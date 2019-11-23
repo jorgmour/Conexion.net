@@ -1,0 +1,12 @@
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\bin\Debug\Programacion.net2.exe.config
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\bin\Debug\Programacion.net2.exe
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\bin\Debug\Programacion.net2.pdb
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\bin\Debug\Programacion.net2.xml
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.vbprojResolveAssemblyReference.cache
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.Form1.resources
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.Resources.resources
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.vbproj.GenerateResource.cache
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.vbproj.CoreCompileInputs.cache
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.exe
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.xml
+C:\Users\Contabilidad\Desktop\Programacion.net2\Programacion.net2\obj\Debug\Programacion.net2.pdb
